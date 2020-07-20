@@ -1,5 +1,3 @@
 # just_a_repo
 
-xxxx
-yyyy
-zzzz
+yy
